@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tingyu\Desktop\android-DisplayingBitmaps-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\Tingyu\Desktop\android-DisplayingBitmaps-master\Application\build\intermediates\pre-dexed\debug\classes-326ea71e478a920787e31fa5621ca7bdd8aebb4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tingyu\Desktop\android-DisplayingBitmaps-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Tingyu\Desktop\android-DisplayingBitmaps-master\Application\build\intermediates\pre-dexed\debug\classes-387b62dd27e62126859122394465898946b339e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tingyu\Desktop\android-DisplayingBitmaps-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Tingyu\Desktop\android-DisplayingBitmaps-master\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-236aacda5dce664d7bc3bfb6fa7173001dcb4845.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tingyu\Desktop\android-DisplayingBitmaps-master\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="C:\Users\Tingyu\Desktop\android-DisplayingBitmaps-master\Application\build\intermediates\pre-dexed\debug\classes-907c88bcfba058695294af213861f60458722053.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tingyu\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Tingyu\Desktop\android-DisplayingBitmaps-master\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-f9863e4b28dca6610340d8a0070b98cf17d7d5b7.jar" />
+    </item>
+
+</items>
